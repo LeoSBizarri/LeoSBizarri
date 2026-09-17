@@ -1,3 +1,40 @@
 # 💼 Leonardo Bizarri
+<img align=right width=150 src="https://tenor.com/pt-BR/view/twitch-waving-smile-hi-gif-15927901782759822906.gif" />
 
-Meu nome é Leonardo dos Santos Bizarri e sou de São Paulo. Sou técnico em eletroeletrônica integrada ao ensino médio pelo IFSP. Hoje curso Tecnologia em Análise e Desenvolvimento de Sistemas no mesmo instituto.
+Olá! Meu nome é Leonardo dos Santos Bizarri e sou de São Paulo. Sou técnico em eletroeletrônica pelo IFSP, com a modalidade integrado ao ensino médio. Hoje curso Tecnologia em Análise e Desenvolvimento de Sistemas no mesmo instituto. Meu sonho é ser um gamedev e estou iniciando a minha jornada 🚀
+
+---
+## 📂 Conhecimentos
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="33px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="33px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="33px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="33px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+<h3>	🔜 Mais em Breve!</h3>
