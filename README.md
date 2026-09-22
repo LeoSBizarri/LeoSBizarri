@@ -9,7 +9,7 @@ Olá! Meu nome é Leonardo dos Santos Bizarri e sou de São Paulo. Sou técnico 
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="33px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -17,7 +17,7 @@ Olá! Meu nome é Leonardo dos Santos Bizarri e sou de São Paulo. Sou técnico 
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="33px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -25,7 +25,7 @@ Olá! Meu nome é Leonardo dos Santos Bizarri e sou de São Paulo. Sou técnico 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="33px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -33,8 +33,16 @@ Olá! Meu nome é Leonardo dos Santos Bizarri e sou de São Paulo. Sou técnico 
     align="left" 
     alt="C++" 
     title="C++"
-    width="33px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
-<h3>	🔜 Mais em Breve!</h3>
+<img 
+    align="left" 
+    alt="Soon" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqoBHqZVrNjM7AgvVEVfb0jYxBkoAp_itZFL9XJoTccQ4QiajwTKZh-5I&s=10.svg" 
+/>
+Mais em Breve!
+
