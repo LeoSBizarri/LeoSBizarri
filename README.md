@@ -46,3 +46,24 @@ Olá! Meu nome é Leonardo dos Santos Bizarri e sou de São Paulo. Sou técnico 
 />
 Mais em Breve!
 
+---
+
+<a href="https://www.linkedin.com/in/leonardo-bizarri-974a412a7/">
+    <img 
+        align="left" 
+        alt="LinkedIn" 
+        width="35px" 
+        style="padding-right: 10px;" 
+        src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail.svg" 
+    />
+</a>
+
+<a href="mailto:leosbizarri@.com">
+    <img 
+        align="left" 
+        alt="Gmail" 
+        width="35px" 
+        style="padding-right: 10px;" 
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-PRT3_ytiO0B5TO1xgYa58IosSc0X8ZAEQ3MyaUthg&s=10.svg" 
+    />
+</a>
